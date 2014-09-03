@@ -1,0 +1,13 @@
+X:1003
+T:Jumplines
+C:{copyright}
+R:{rhythm}
+M:4/4
+L:1/4
+Q:1/4=120
+K:C
+%%score T1 T2 
+V:T1 clef=treble-8 octave=-1 name="Sopran" snm="S"
+V:T2 clef=treble-8 octave=-1 name="Alt" snm="A"
+[V:T1]  "^:10"c def  | "^@10@5dsav" c4 |]
+[V:T2]  "^:20"CDEF | "^@20@4" C4 |]

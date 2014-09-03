@@ -1,0 +1,13 @@
+X:1001
+T:Slurs
+C:{copyright}
+R:{rhythm}
+M:4/4
+L:1/4
+Q:1/4=120
+K:C
+%%score T1 T2 
+V:T1 clef=treble-8 octave=-1 name="Sopran" snm="S"
+V:T2 clef=treble-8 octave=-1 name="Alt" snm="A"
+[V:T1]  c-cd ((c | c2 d)d) | c2 ([(ce]2 | [ce)]2) c-c/2-c/2 | [c - e - ] - [ce]3|]
+[V:T2] (ED (E2 | E2)) EE | C4) | C4) | (3c/2c/2c/2 c c c |]
