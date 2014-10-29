@@ -1,0 +1,34 @@
+X:1014
+F:1014_Unisons_and_synclines
+T:Unisons and synclines
+C:
+S:
+M:4/4
+L:1/4
+Q:1/4=120
+K:C
+%
+%%%%hn.print {"t":"tenor, bass", "v":[1,2,3],     "s":[[1, 2], [1,3], [2,3]],       "f":[3  ],   "j":[1, 3]}
+V:T1
+C zzz
+C zzz
+C zzz
+"^!C"[CDE] zzz
+"^!D"[DEC] zzz
+"^!E"[ECD]
+V:T2
+A,3A,
+A,4
+A,4
+A,4
+A,4
+A,4
+V:T4
+A4
+A4
+A4
+A4
+A4
+A4
+
+%

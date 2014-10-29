@@ -1,0 +1,31 @@
+X:1010
+F:1010_note_bound_annotations
+T:note bound annotations
+C:
+S:
+M:4/4
+L:1/4
+Q:1/4=120
+K:C
+% %%%hn.print {"t":"alle Stimmen", "v":[1,2], "s": [[1,2],[3,4]], "f":[1,3], "sf":[2,4], "j":[1], "legend":[10,10]}
+% %%%hn.print {"t":"sopran, alt", "v":[1,2],     "s":[[1,2]],       "f":[1],   "j":[1]}
+% %%%hn.print {"t":"tenor, bass", "v":[3, 4],     "s":[[1, 2], [3,4]],       "f":[3  ],   "j":[1, 3]}
+%%%%hn.legend [10,10]
+%%%%hn.annotation {"id": 10, "pos": [5,5], "text": "referenced note" , "bind": "sheet | note | key | legend"}
+%%score T1 T2  B1 B2
+V:T1 clef=treble-8 name="Sopran" snm="S"
+"^!default"C zzzz
+"^!10,0@10,0"D zzzz
+"^!20,0@20,0"E zzzz
+"^!-20,0@-20,0"F zzzz
+"^!-20.9,0@-20.9,0"F zzzz
+"^!10,10@10,10"C zzzz
+"^!20,-10@20,-10"C zzzzz
+"^!-20,10@-20,10"C zzzzz
+"^!-20.9-10@-20.9,-10"C zzzz
+"^#10"C zzzz
+"^#10@-30,0"C zzzz
+"^#10@4,-10"[CDE] zzzz
+"^#10@4,-10"[DEC] zzzz
+"^#10"[ECD]
+

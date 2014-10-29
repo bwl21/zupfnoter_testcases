@@ -1,0 +1,22 @@
+X:1007_Jumplines and repetitions
+F:1007_Jumplines_and_repetitions
+T:Jumplines and repetitions
+C:
+S:
+M:4/4
+L:1/4
+Q:1/4=120
+K:C
+%%%%hn.print {"t":"alle Stimmen",         "v":[1,2,3,4], "s": [[1,2],[3,4]], "f":[1,3], "j":[1]}
+% %%%hn.print {"t":"sopran, alt", "v":[1,2],     "s":[[1,2]],       "f":[1],   "j":[1]}
+%%%%hn.print {"t":"tenor, bass", "v":[3, 4],     "s":[[1, 2], [3,4]],       "f":[3  ],   "j":[1, 3]}
+%%%%hn.legend [10,10]
+%%score T1 T2  B1 B2
+I: hn.print
+I: foobar
+%
+I: barfoo
+V:T1 clef=treble-8 name="Sopran" snm="S"
+%V:B1 clef=bass transpose=-24 name="Tenor" middle=D, snm="T"
+[V:T1] AAAA |:BBBB |: cccc ["1. Mal" dddd:|["2. Mal" eeee "^@@2" :|["3. Mal" ffff|] cccc :| dddd "^@@5" :| eeee "^@@-10"  :|
+%
