@@ -15,3 +15,5 @@ V:T2 clef=treble-8 octave=-1 name="Alt" snm="A"
 
 W: Slurs shall be respresented accordingly
 W: Ties shall be represented and played properly
+W:
+W: Annotation shall be top right of the corresponding note

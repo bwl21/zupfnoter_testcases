@@ -1,9 +1,10 @@
+F:1000_Zupfnoter test
 X:1000
 T:Zupfnoter test
 C:Bernhard Weichel
 M:4/4
 L:1/16
-Q:1/4
+Q:1/4=120
 K:G
 %%score (T1 T2) 
 V:T1           clef=treble-8  name="v1"   snm="v1"

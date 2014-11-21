@@ -6,7 +6,7 @@
 /Contents 4 0 R>>
 endobj
 4 0 obj
-<</Length 1377>>
+<</Length 1372>>
 stream
 0.57 w
 0 G
@@ -74,7 +74,7 @@ BT
 23 TL
 0.000 g
 113.39 796.54 Td
-(tuplets) Tj
+(parts) Tj
 ET
 0.28 w
 BT
@@ -83,8 +83,7 @@ BT
 0.000 g
 113.39 783.50 Td
 (tenor, bass) Tj
-T* (Zupfnoter Testcase) Tj
-T* (Bernhard Weichel) Tj
+T* () Tj
 T* (Takt: 4/4 \( 1/4 = 120 \)) Tj
 T* (Tonart: C) Tj
 ET
@@ -94,7 +93,7 @@ BT
 6.8999999999999995 TL
 0.000 g
 510.24 20.41 Td
-(rendered 2014-11-21 15:50:06 CET by Zupfnoter 0.9.5.dev ©2014 https://www.bernhard-weichel.de \(Host http://localhost:9292/\)) Tj
+(rendered 2014-11-21 16:36:28 CET by Zupfnoter 0.9.5.dev ©2014 https://www.bernhard-weichel.de \(Host http://localhost:9292/\)) Tj
 ET
 0.28 w
 BT
@@ -102,7 +101,7 @@ BT
 13.799999999999999 TL
 0.000 g
 113.39 689.95 Td
-() Tj
+(Part shall look like an unconnected note) Tj
 ET
 endstream
 endobj
@@ -113,7 +112,7 @@ endobj
 /Contents 6 0 R>>
 endobj
 6 0 obj
-<</Length 1380>>
+<</Length 1375>>
 stream
 0.57 w
 0 G
@@ -181,7 +180,7 @@ BT
 23 TL
 0.000 g
 -277.80 796.54 Td
-(tuplets) Tj
+(parts) Tj
 ET
 0.28 w
 BT
@@ -190,8 +189,7 @@ BT
 0.000 g
 -277.80 783.50 Td
 (tenor, bass) Tj
-T* (Zupfnoter Testcase) Tj
-T* (Bernhard Weichel) Tj
+T* () Tj
 T* (Takt: 4/4 \( 1/4 = 120 \)) Tj
 T* (Tonart: C) Tj
 ET
@@ -201,7 +199,7 @@ BT
 6.8999999999999995 TL
 0.000 g
 119.06 20.41 Td
-(rendered 2014-11-21 15:50:06 CET by Zupfnoter 0.9.5.dev ©2014 https://www.bernhard-weichel.de \(Host http://localhost:9292/\)) Tj
+(rendered 2014-11-21 16:36:28 CET by Zupfnoter 0.9.5.dev ©2014 https://www.bernhard-weichel.de \(Host http://localhost:9292/\)) Tj
 ET
 0.28 w
 BT
@@ -209,7 +207,7 @@ BT
 13.799999999999999 TL
 0.000 g
 -277.80 689.95 Td
-() Tj
+(Part shall look like an unconnected note) Tj
 ET
 endstream
 endobj
@@ -220,7 +218,7 @@ endobj
 /Contents 8 0 R>>
 endobj
 8 0 obj
-<</Length 1403>>
+<</Length 1398>>
 stream
 0.57 w
 0 G
@@ -288,7 +286,7 @@ BT
 23 TL
 0.000 g
 -668.98 796.54 Td
-(tuplets) Tj
+(parts) Tj
 ET
 0.28 w
 BT
@@ -297,8 +295,7 @@ BT
 0.000 g
 -668.98 783.50 Td
 (tenor, bass) Tj
-T* (Zupfnoter Testcase) Tj
-T* (Bernhard Weichel) Tj
+T* () Tj
 T* (Takt: 4/4 \( 1/4 = 120 \)) Tj
 T* (Tonart: C) Tj
 ET
@@ -308,7 +305,7 @@ BT
 6.8999999999999995 TL
 0.000 g
 -272.13 20.41 Td
-(rendered 2014-11-21 15:50:06 CET by Zupfnoter 0.9.5.dev ©2014 https://www.bernhard-weichel.de \(Host http://localhost:9292/\)) Tj
+(rendered 2014-11-21 16:36:28 CET by Zupfnoter 0.9.5.dev ©2014 https://www.bernhard-weichel.de \(Host http://localhost:9292/\)) Tj
 ET
 0.28 w
 BT
@@ -316,7 +313,7 @@ BT
 13.799999999999999 TL
 0.000 g
 -668.98 689.95 Td
-() Tj
+(Part shall look like an unconnected note) Tj
 ET
 endstream
 endobj
@@ -411,7 +408,7 @@ endobj
 21 0 obj
 <<
 /Producer (jsPDF 1.0.145-git 2014-05-25T12:54:diegocr)
-/CreationDate (D:20141121155006)
+/CreationDate (D:20141121163628)
 >>
 endobj
 22 0 obj
@@ -425,28 +422,28 @@ endobj
 xref
 0 23
 0000000000 65535 f 
-0000004553 00000 n 
-0000005798 00000 n 
+0000004538 00000 n 
+0000005783 00000 n 
 0000000009 00000 n 
 0000000087 00000 n 
-0000001514 00000 n 
-0000001592 00000 n 
-0000003022 00000 n 
-0000003100 00000 n 
-0000004652 00000 n 
-0000004742 00000 n 
-0000004838 00000 n 
-0000004937 00000 n 
-0000005040 00000 n 
-0000005129 00000 n 
-0000005223 00000 n 
-0000005320 00000 n 
-0000005421 00000 n 
-0000005514 00000 n 
-0000005606 00000 n 
-0000005700 00000 n 
-0000006026 00000 n 
-0000006136 00000 n 
+0000001509 00000 n 
+0000001587 00000 n 
+0000003012 00000 n 
+0000003090 00000 n 
+0000004637 00000 n 
+0000004727 00000 n 
+0000004823 00000 n 
+0000004922 00000 n 
+0000005025 00000 n 
+0000005114 00000 n 
+0000005208 00000 n 
+0000005305 00000 n 
+0000005406 00000 n 
+0000005499 00000 n 
+0000005591 00000 n 
+0000005685 00000 n 
+0000006011 00000 n 
+0000006121 00000 n 
 trailer
 <<
 /Size 23
@@ -454,5 +451,5 @@ trailer
 /Info 21 0 R
 >>
 startxref
-6240
+6225
 %%EOF
