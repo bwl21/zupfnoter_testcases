@@ -16,6 +16,8 @@ C zzz
 "^!C"[CDE] zzz
 "^!D"[DEC] zzz
 "^!E"[ECD]
+z4 z4 z4 z4
+%
 V:T2
 A,3A,
 A,4
@@ -23,6 +25,8 @@ A,4
 A,4
 A,4
 A,4
+z4 z4 z4 z4
+%
 V:T4
 A4
 A4
@@ -30,5 +34,4 @@ A4
 A4
 A4
 A4
-
-%
+[P:1] [cd][edc] c d

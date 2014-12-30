@@ -6,7 +6,7 @@
 /Contents 4 0 R>>
 endobj
 4 0 obj
-<</Length 1372>>
+<</Length 1414>>
 stream
 0.57 w
 0 G
@@ -93,15 +93,16 @@ BT
 6.8999999999999995 TL
 0.000 g
 510.24 20.41 Td
-(rendered 2014-11-21 16:36:28 CET by Zupfnoter 0.9.5.dev ©2014 https://www.bernhard-weichel.de \(Host http://localhost:9292/\)) Tj
+(rendered 2014-12-30 18:54:23 CET by Zupfnoter 0.9.7-dev ©2014 https://www.bernhard-weichel.de \(Host http://localhost:9292/\)) Tj
 ET
 0.28 w
 BT
 /F1 12 Tf
 13.799999999999999 TL
 0.000 g
-113.39 689.95 Td
+141.73 661.61 Td
 (Part shall look like an unconnected note) Tj
+T* (Part shall also work on multisons) Tj
 ET
 endstream
 endobj
@@ -112,7 +113,7 @@ endobj
 /Contents 6 0 R>>
 endobj
 6 0 obj
-<</Length 1375>>
+<</Length 1417>>
 stream
 0.57 w
 0 G
@@ -199,15 +200,16 @@ BT
 6.8999999999999995 TL
 0.000 g
 119.06 20.41 Td
-(rendered 2014-11-21 16:36:28 CET by Zupfnoter 0.9.5.dev ©2014 https://www.bernhard-weichel.de \(Host http://localhost:9292/\)) Tj
+(rendered 2014-12-30 18:54:23 CET by Zupfnoter 0.9.7-dev ©2014 https://www.bernhard-weichel.de \(Host http://localhost:9292/\)) Tj
 ET
 0.28 w
 BT
 /F1 12 Tf
 13.799999999999999 TL
 0.000 g
--277.80 689.95 Td
+-249.45 661.61 Td
 (Part shall look like an unconnected note) Tj
+T* (Part shall also work on multisons) Tj
 ET
 endstream
 endobj
@@ -218,7 +220,7 @@ endobj
 /Contents 8 0 R>>
 endobj
 8 0 obj
-<</Length 1398>>
+<</Length 1440>>
 stream
 0.57 w
 0 G
@@ -305,15 +307,16 @@ BT
 6.8999999999999995 TL
 0.000 g
 -272.13 20.41 Td
-(rendered 2014-11-21 16:36:28 CET by Zupfnoter 0.9.5.dev ©2014 https://www.bernhard-weichel.de \(Host http://localhost:9292/\)) Tj
+(rendered 2014-12-30 18:54:23 CET by Zupfnoter 0.9.7-dev ©2014 https://www.bernhard-weichel.de \(Host http://localhost:9292/\)) Tj
 ET
 0.28 w
 BT
 /F1 12 Tf
 13.799999999999999 TL
 0.000 g
--668.98 689.95 Td
+-640.63 661.61 Td
 (Part shall look like an unconnected note) Tj
+T* (Part shall also work on multisons) Tj
 ET
 endstream
 endobj
@@ -408,7 +411,7 @@ endobj
 21 0 obj
 <<
 /Producer (jsPDF 1.0.145-git 2014-05-25T12:54:diegocr)
-/CreationDate (D:20141121163628)
+/CreationDate (D:20141230185423)
 >>
 endobj
 22 0 obj
@@ -422,28 +425,28 @@ endobj
 xref
 0 23
 0000000000 65535 f 
-0000004538 00000 n 
-0000005783 00000 n 
+0000004664 00000 n 
+0000005909 00000 n 
 0000000009 00000 n 
 0000000087 00000 n 
-0000001509 00000 n 
-0000001587 00000 n 
-0000003012 00000 n 
-0000003090 00000 n 
-0000004637 00000 n 
-0000004727 00000 n 
-0000004823 00000 n 
-0000004922 00000 n 
-0000005025 00000 n 
-0000005114 00000 n 
-0000005208 00000 n 
-0000005305 00000 n 
-0000005406 00000 n 
-0000005499 00000 n 
-0000005591 00000 n 
-0000005685 00000 n 
-0000006011 00000 n 
-0000006121 00000 n 
+0000001551 00000 n 
+0000001629 00000 n 
+0000003096 00000 n 
+0000003174 00000 n 
+0000004763 00000 n 
+0000004853 00000 n 
+0000004949 00000 n 
+0000005048 00000 n 
+0000005151 00000 n 
+0000005240 00000 n 
+0000005334 00000 n 
+0000005431 00000 n 
+0000005532 00000 n 
+0000005625 00000 n 
+0000005717 00000 n 
+0000005811 00000 n 
+0000006137 00000 n 
+0000006247 00000 n 
 trailer
 <<
 /Size 23
@@ -451,5 +454,5 @@ trailer
 /Info 21 0 R
 >>
 startxref
-6225
+6351
 %%EOF
