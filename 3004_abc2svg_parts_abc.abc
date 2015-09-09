@@ -1,0 +1,30 @@
+X:3004
+F:3004_abc2svg_parts_abc
+T:abc2svg_parts.abc
+C:
+S:
+M:4/4
+L:1/4
+Q:1/4=120
+K:C
+%%score T1 T2 T3
+V:T1 clef=treble-8 name="Sopran" snm="S"
+[P:A] CDEF | [P:B] GABc
+V:T2 clef=treble-8  name="Alt" snm="A"
+[P:A]G,A, B, C | [P:B]DEFG
+V:T3 clef=treble
+[P:A] C,D, E, F, | [P:B] "!Part B" G, A, B, C
+
+%%%%zupfnoter.config
+
+{
+  "abc_parser": "ABC2SVG",
+  "produce": ["1", "2"],
+  "extracts": {
+   "0":{
+        "voices": [1,2],
+        "flowlines": [0,2]
+       }
+  }
+  
+}

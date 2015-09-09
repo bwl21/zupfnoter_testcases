@@ -6,7 +6,7 @@
 /Contents 4 0 R>>
 endobj
 4 0 obj
-<</Length 4641>>
+<</Length 4595>>
 stream
 0.57 w
 0 G
@@ -206,7 +206,7 @@ BT
 13.799999999999999 TL
 0.000 g
 113.39 783.50 Td
-(sopran, alt) Tj
+(Sopran, Alt) Tj
 T* () Tj
 T* (Takt: 4/4 \( 1/4 = 120 \)) Tj
 T* (Tonart: C) Tj
@@ -217,7 +217,16 @@ BT
 6.8999999999999995 TL
 0.000 g
 510.24 20.41 Td
-(rendered 2014-12-26 15:17:26 CET by Zupfnoter 0.9.6.dev ©2014 https://www.bernhard-weichel.de \(Host http://localhost:9292/\)) Tj
+(rendered 2015-08-30 10:55:18 CEST by Zupfnoter 0.10.3 ©2015 https://www.bernhard-weichel.de \(Host http://localhost:9292/\)) Tj
+ET
+0.28 w
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0.000 g
+481.89 689.95 Td
+(This is third verse) Tj
+T* (shoud be placed right of the tune) Tj
 ET
 0.28 w
 BT
@@ -231,17 +240,6 @@ T* (Das sind noch immer lyrics) Tj
 T* () Tj
 T* (we shall see a blank line before this) Tj
 T* (zweite Strophe) Tj
-T* () Tj
-T* (This is third verse) Tj
-T* (shoud be placed right of the tune) Tj
-ET
-0.28 w
-BT
-/F1 12 Tf
-13.799999999999999 TL
-0.000 g
-1105.51 37.98 Td
-(Erstellt mit Zupfnoter 0.7) Tj
 ET
 endstream
 endobj
@@ -252,7 +250,7 @@ endobj
 /Contents 6 0 R>>
 endobj
 6 0 obj
-<</Length 4476>>
+<</Length 4430>>
 stream
 0.57 w
 0 G
@@ -452,7 +450,7 @@ BT
 13.799999999999999 TL
 0.000 g
 -277.80 783.50 Td
-(sopran, alt) Tj
+(Sopran, Alt) Tj
 T* () Tj
 T* (Takt: 4/4 \( 1/4 = 120 \)) Tj
 T* (Tonart: C) Tj
@@ -463,7 +461,16 @@ BT
 6.8999999999999995 TL
 0.000 g
 119.06 20.41 Td
-(rendered 2014-12-26 15:17:26 CET by Zupfnoter 0.9.6.dev ©2014 https://www.bernhard-weichel.de \(Host http://localhost:9292/\)) Tj
+(rendered 2015-08-30 10:55:18 CEST by Zupfnoter 0.10.3 ©2015 https://www.bernhard-weichel.de \(Host http://localhost:9292/\)) Tj
+ET
+0.28 w
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0.000 g
+90.71 689.95 Td
+(This is third verse) Tj
+T* (shoud be placed right of the tune) Tj
 ET
 0.28 w
 BT
@@ -477,17 +484,6 @@ T* (Das sind noch immer lyrics) Tj
 T* () Tj
 T* (we shall see a blank line before this) Tj
 T* (zweite Strophe) Tj
-T* () Tj
-T* (This is third verse) Tj
-T* (shoud be placed right of the tune) Tj
-ET
-0.28 w
-BT
-/F1 12 Tf
-13.799999999999999 TL
-0.000 g
-714.33 37.98 Td
-(Erstellt mit Zupfnoter 0.7) Tj
 ET
 endstream
 endobj
@@ -498,7 +494,7 @@ endobj
 /Contents 8 0 R>>
 endobj
 8 0 obj
-<</Length 4829>>
+<</Length 4785>>
 stream
 0.57 w
 0 G
@@ -698,7 +694,7 @@ BT
 13.799999999999999 TL
 0.000 g
 -668.98 783.50 Td
-(sopran, alt) Tj
+(Sopran, Alt) Tj
 T* () Tj
 T* (Takt: 4/4 \( 1/4 = 120 \)) Tj
 T* (Tonart: C) Tj
@@ -709,7 +705,16 @@ BT
 6.8999999999999995 TL
 0.000 g
 -272.13 20.41 Td
-(rendered 2014-12-26 15:17:26 CET by Zupfnoter 0.9.6.dev ©2014 https://www.bernhard-weichel.de \(Host http://localhost:9292/\)) Tj
+(rendered 2015-08-30 10:55:18 CEST by Zupfnoter 0.10.3 ©2015 https://www.bernhard-weichel.de \(Host http://localhost:9292/\)) Tj
+ET
+0.28 w
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0.000 g
+-300.47 689.95 Td
+(This is third verse) Tj
+T* (shoud be placed right of the tune) Tj
 ET
 0.28 w
 BT
@@ -723,17 +728,6 @@ T* (Das sind noch immer lyrics) Tj
 T* () Tj
 T* (we shall see a blank line before this) Tj
 T* (zweite Strophe) Tj
-T* () Tj
-T* (This is third verse) Tj
-T* (shoud be placed right of the tune) Tj
-ET
-0.28 w
-BT
-/F1 12 Tf
-13.799999999999999 TL
-0.000 g
-323.15 37.98 Td
-(Erstellt mit Zupfnoter 0.7) Tj
 ET
 endstream
 endobj
@@ -828,7 +822,7 @@ endobj
 21 0 obj
 <<
 /Producer (jsPDF 1.0.145-git 2014-05-25T12:54:diegocr)
-/CreationDate (D:20141226151726)
+/CreationDate (D:20150830105518)
 >>
 endobj
 22 0 obj
@@ -842,28 +836,28 @@ endobj
 xref
 0 23
 0000000000 65535 f 
-0000014339 00000 n 
-0000015584 00000 n 
+0000014203 00000 n 
+0000015448 00000 n 
 0000000009 00000 n 
 0000000087 00000 n 
-0000004778 00000 n 
-0000004856 00000 n 
-0000009382 00000 n 
-0000009460 00000 n 
-0000014438 00000 n 
-0000014528 00000 n 
-0000014624 00000 n 
-0000014723 00000 n 
-0000014826 00000 n 
-0000014915 00000 n 
-0000015009 00000 n 
-0000015106 00000 n 
-0000015207 00000 n 
-0000015300 00000 n 
-0000015392 00000 n 
-0000015486 00000 n 
-0000015812 00000 n 
-0000015922 00000 n 
+0000004732 00000 n 
+0000004810 00000 n 
+0000009290 00000 n 
+0000009368 00000 n 
+0000014302 00000 n 
+0000014392 00000 n 
+0000014488 00000 n 
+0000014587 00000 n 
+0000014690 00000 n 
+0000014779 00000 n 
+0000014873 00000 n 
+0000014970 00000 n 
+0000015071 00000 n 
+0000015164 00000 n 
+0000015256 00000 n 
+0000015350 00000 n 
+0000015676 00000 n 
+0000015786 00000 n 
 trailer
 <<
 /Size 23
@@ -871,5 +865,5 @@ trailer
 /Info 21 0 R
 >>
 startxref
-16026
+15890
 %%EOF

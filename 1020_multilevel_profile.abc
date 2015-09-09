@@ -1,0 +1,51 @@
+X:1020
+F:1020_multilevel_profile
+T:multilevel profile
+C:
+S:
+M:4/4
+L:1/8
+Q:1/4=120
+K:C
+%%score T1 T2  B1 B2
+V:T1 clef=treble-8 name="Sopran" snm="S"
+z4 z3 G, |   A,B,c,d, e,f,g,a, | b,cde fg z2 |] 
+
+V:T2 clef=treble-8  name="Alt" snm="A"
+G,,A,,B,,C, D,E,F,G, | A,B,c,d, e,f,g,a, | b,cde | fg z2 |]
+
+
+W: 1. The lyrics 1
+W:
+W: 2. The lyrics 2
+
+%%%%zupfnoter.config 
+
+{ 
+
+ "produce": ["1", "2"],
+
+ "extract":{
+             "1": {"voices": [1,2,3,4],
+                   "lyrics": {"versepos": {"1,2,3,4,5,6" :[10,100]}},
+                   "legend": {"pos": [10,10]}},
+                   
+             "2": {"voices": [1,2],
+                   "flowlines": [1,2],
+                   "layoutlines" : [0],
+                   "lyrics": {"versepos": {"1": [300,40], "2,3":  [320, 60]},"pos": [300,40]},
+                   "legend": {"pos": [300,10]},
+                   "notes":[
+                    {"pos": [30,30], "text": "note at 10,30", "style": "regular"},
+                    {"pos": [30,60], "text": "note at 10,60", "style": "regular"},
+                    {"pos": [5, 50], "text": "Folge: A A B B C A", "style": "regular"}
+                   ]
+                   }
+          },
+
+
+ "layout": { 
+             "ELLIPSE_SIZE": [2.8, 1.5], 
+             "REST_SIZE": [2.8, 1.7]
+           }
+}

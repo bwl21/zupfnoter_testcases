@@ -1,0 +1,34 @@
+X:3005
+F:3005_Transpostions
+T:Transpositions
+C: Bernhard
+C: Weichel
+S:
+M:4/4
+M:4/4
+L:1/4
+Q:1/4=120
+I:transpose 1
+K:C
+%%score T2 T1
+%
+V:T1 clef=treble name="Sopran" snm="S"
+[V:T1] CDEFGABc
+V:T2 clef=treble octave=-1 name="v2" snm="v2"
+[V:T2] CDEFGABc
+%
+W:
+W: das ist Strophe 1
+W: das ist Strophe 1
+W: das ist Strophe 1
+W:
+W: das ist Strophe 2
+W: das ist Strophe 2
+W: das ist Strophe 2
+W: das ist Strophe 2
+
+
+%%%%zupfnoter.config
+{
+ "abc_parser" : "ABCJSx"
+}

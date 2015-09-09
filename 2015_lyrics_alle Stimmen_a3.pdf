@@ -6,7 +6,7 @@
 /Contents 4 0 R>>
 endobj
 4 0 obj
-<</Length 6558>>
+<</Length 6616>>
 stream
 0.57 w
 0 G
@@ -290,7 +290,16 @@ BT
 6.8999999999999995 TL
 0.000 g
 425.20 20.41 Td
-(rendered 2014-12-26 15:17:26 CET by Zupfnoter 0.9.6.dev ©2014 https://www.bernhard-weichel.de \(Host http://localhost:9292/\)) Tj
+(rendered 2015-01-07 14:10:25 CET by Zupfnoter 0.9.7-dev ©2015 https://www.bernhard-weichel.de \(Host http://localhost:9292/\)) Tj
+ET
+0.28 w
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0.000 g
+396.85 689.95 Td
+(This is third verse) Tj
+T* (shoud be placed right of the tune) Tj
 ET
 0.28 w
 BT
@@ -304,9 +313,6 @@ T* (Das sind noch immer lyrics) Tj
 T* () Tj
 T* (we shall see a blank line before this) Tj
 T* (zweite Strophe) Tj
-T* () Tj
-T* (This is third verse) Tj
-T* (shoud be placed right of the tune) Tj
 ET
 0.28 w
 BT
@@ -409,7 +415,7 @@ endobj
 17 0 obj
 <<
 /Producer (jsPDF 1.0.145-git 2014-05-25T12:54:diegocr)
-/CreationDate (D:20141226151726)
+/CreationDate (D:20150107141025)
 >>
 endobj
 18 0 obj
@@ -423,24 +429,24 @@ endobj
 xref
 0 19
 0000000000 65535 f 
-0000006695 00000 n 
-0000007925 00000 n 
+0000006753 00000 n 
+0000007983 00000 n 
 0000000009 00000 n 
 0000000087 00000 n 
-0000006783 00000 n 
-0000006873 00000 n 
-0000006968 00000 n 
-0000007066 00000 n 
-0000007168 00000 n 
-0000007256 00000 n 
-0000007350 00000 n 
-0000007447 00000 n 
-0000007548 00000 n 
-0000007641 00000 n 
-0000007733 00000 n 
-0000007827 00000 n 
-0000008149 00000 n 
-0000008259 00000 n 
+0000006841 00000 n 
+0000006931 00000 n 
+0000007026 00000 n 
+0000007124 00000 n 
+0000007226 00000 n 
+0000007314 00000 n 
+0000007408 00000 n 
+0000007505 00000 n 
+0000007606 00000 n 
+0000007699 00000 n 
+0000007791 00000 n 
+0000007885 00000 n 
+0000008207 00000 n 
+0000008317 00000 n 
 trailer
 <<
 /Size 19
@@ -448,5 +454,5 @@ trailer
 /Info 17 0 R
 >>
 startxref
-8363
+8421
 %%EOF

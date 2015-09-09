@@ -73,7 +73,7 @@ BT
 /F2 20 Tf
 23 TL
 0.000 g
-28.35 796.54 Td
+56.69 768.19 Td
 (Jumplines and repetitions) Tj
 ET
 0.28 w
@@ -81,7 +81,7 @@ BT
 /F1 12 Tf
 13.799999999999999 TL
 0.000 g
-28.35 783.50 Td
+56.69 755.15 Td
 (tenor, bass) Tj
 T* () Tj
 T* (Takt: 4/4 \( 1/4 = 120 \)) Tj
@@ -93,14 +93,14 @@ BT
 6.8999999999999995 TL
 0.000 g
 425.20 20.41 Td
-(rendered 2014-11-21 16:04:10 CET by Zupfnoter 0.9.5.dev ©2014 https://www.bernhard-weichel.de \(Host http://localhost:9292/\)) Tj
+(rendered 2015-01-07 12:35:20 CET by Zupfnoter 0.9.7-dev ©2015 https://www.bernhard-weichel.de \(Host http://localhost:9292/\)) Tj
 ET
 0.28 w
 BT
 /F1 12 Tf
 13.799999999999999 TL
 0.000 g
-28.35 689.95 Td
+56.69 661.61 Td
 () Tj
 ET
 endstream
@@ -196,7 +196,7 @@ endobj
 17 0 obj
 <<
 /Producer (jsPDF 1.0.145-git 2014-05-25T12:54:diegocr)
-/CreationDate (D:20141121160410)
+/CreationDate (D:20150107123520)
 >>
 endobj
 18 0 obj

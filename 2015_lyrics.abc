@@ -7,12 +7,6 @@ M:4/4
 L:1/4
 Q:1/4=120
 K:C
-%%%%hn.print {"startpos": 50, "t":"alle Stimmen",         "v":[1,2,3,4], "s": [[1,2],[3,4]], "f":[1,3], "j":[1]}
-%%%%hn.print {"startpos": 50, "t":"sopran, alt", "v":[1,2],     "s":[[1,2]],       "f":[1],   "j":[1]}
-%%%%hn.print {"t":"tenor, bass", "v":[3, 4],     "s":[[1, 2], [3,4]],       "f":[3  ],   "j":[1, 3]}
-%%%%hn.legend {"pos": [10,10]}
-%%%%hn.lyrics {"pos": [40,50], "versepos": [[40,50], [], [90,50]]}
-%%%%hn.note {"pos": [360, 280], "text": "Erstellt mit Zupfnoter 0.7", "style": "regular"}
 %%score T1 T2  T4 T3
 V:T1 clef=treble-8 name="Sopran" snm="S"
 V:T2 clef=treble-8  name="Alt" snm="A"
@@ -21,6 +15,7 @@ V:T4 clef=treble-8  name="Alt" snm="A"
 %V:B1 clef=bass transpose=-24 name="Tenor" middle=D, snm="T"
 %V:B2 clef=bass transpose=-24 name="Bass" middle=D, snm="B"
 [V:T1] |:F, F, F, F, | F, :| 
+w: this is em-bed-ded
 [V:T2] |:E,4 | E, :|
 [V:T3] |:E,4 | E, :|
 [V:T4] |:E,4 | E, :|
@@ -35,3 +30,19 @@ W:
 W: This is third verse
 W: shoud be placed right of the tune
 
+%%%%zupfnoter.config
+{
+ "abc_parser": "ABC2SVGx",
+ "produce":[1],
+ "annotations": {
+                  "refn": {"id": "refn", "text": "referenced note", "pos": [20,10]}
+                },
+ "extract": {
+              "0": {
+                   "jumplines": [1],
+                   "lyrics": {"pos": [40,50], "versepos": {"1,2": [40,50], "3": [140,50]}},
+                   "legend": {"pos": [10,10]},
+                   "startpos": 50
+                  }
+       }
+}

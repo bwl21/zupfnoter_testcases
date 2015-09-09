@@ -17,3 +17,15 @@ W: Slurs shall be respresented accordingly
 W: Ties shall be represented and played properly
 W:
 W: Annotation shall be top right of the corresponding note
+
+%%%%zupfnoter.config
+{
+ "produce":[0],
+
+ "extract": {
+              "0": {
+                   "lyrics": {"versepos": {"1,2,3,4,5,6" :[220,150]}},
+                   "legend": {"pos": [350,150]}
+                   }
+           }
+}

@@ -191,14 +191,14 @@ BT
 6.8999999999999995 TL
 0.000 g
 425.20 20.41 Td
-(rendered 2014-12-03 14:28:03 CET by Zupfnoter 0.9.6.dev ©2014 https://www.bernhard-weichel.de \(Host http://localhost:9292/\)) Tj
+(rendered 2015-01-07 12:25:25 CET by Zupfnoter 0.9.7-dev ©2015 https://www.bernhard-weichel.de \(Host http://localhost:9292/\)) Tj
 ET
 0.28 w
 BT
 /F1 12 Tf
 13.799999999999999 TL
 0.000 g
-28.35 689.95 Td
+56.69 661.61 Td
 (In the tune, there should be a new line after the Ds) Tj
 ET
 endstream
@@ -294,7 +294,7 @@ endobj
 17 0 obj
 <<
 /Producer (jsPDF 1.0.145-git 2014-05-25T12:54:diegocr)
-/CreationDate (D:20141203142803)
+/CreationDate (D:20150107122525)
 >>
 endobj
 18 0 obj

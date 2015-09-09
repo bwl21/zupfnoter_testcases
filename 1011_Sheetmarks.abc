@@ -9,7 +9,7 @@ Q:1/4=120
 K:C
 V:T1 clef=treble-8 name="Sopran" snm="S"
 V:T2 clef=treble-8  name="Alt" snm="A"
-%%%%hn.legend [300,200]
+%%%%hn.legend {"pos": [300,200]}
 %V:B1 clef=bass transpose=-24 name="Tenor" middle=D, snm="T"
 %V:B2 clef=bass transpose=-24 name="Bass" middle=D, snm="B"
 [V:T1] gg,g,,g,,,

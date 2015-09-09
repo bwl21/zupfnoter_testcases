@@ -1,0 +1,32 @@
+X:3002
+F:3002_abc2svg_accidential_tie
+T:Testcase abc2svg_accidential tie
+M:4/4
+L:1/4
+I:transpose -3
+%Q:1/4=120
+C: Bernhard
+C: Weichel
+I:score T1
+K:C
+V:T1 clef=treble name="Sopran" snm="S"
+C4| [^C4-D4] ) | [^CD] C^CC | c4 |  ( ^C4 | C4 ) | ^F-_G C
+w: alle meine ent-chen-schim-men in  dem see in  dem see
+%
+W:
+W: note that it indicates a bug in abcjs with respect to 
+W: http://www.musiker-board.de/threads/wie-lange-gilt-ein-versetzungszeichen-in-kombi-mit-einem-haltebogen.540091/
+W:
+W: Strophe 2
+
+%%%%zupfnoter.config
+{
+ "abc_parser" : "ABC2SVG",
+ "produce":[0],
+ "extract":{
+  "0": {
+       "lyrics": {"versepos": {"1,2,3,4,5,6" :[10,100]}},
+       "legend": {"pos": [10,10]}
+      }
+    }
+} 

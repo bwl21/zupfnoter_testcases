@@ -1,0 +1,28 @@
+X:3001
+T:ABC2SVG - Investigate
+F:3001_ABC2SVG-1
+I:transpose 0
+M:3/4
+L:1/4
+K:G
+V:1 clef=treble 
+|:[cd]cc|fga|bc'd':|
+w: das ist vers 0 und null nund null
+V:2 clef=treble octave=-1 
+|:(cd)e|"^@hugo"fga|bc'd':|
+w: das ist
+V:3 clef=bass octave=-2
+|:Gde|fga|bc'd':|
+%
+W:
+W: this is verse_1
+W: this is verse_1
+W:
+W: this is verse_2
+W: this is verse_2
+
+%%%%zupfnoter.config
+{
+ "abc_parser" : "ABC2SVG",
+ "produce":[0]
+} 

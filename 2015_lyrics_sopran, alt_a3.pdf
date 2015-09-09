@@ -6,7 +6,7 @@
 /Contents 4 0 R>>
 endobj
 4 0 obj
-<</Length 4630>>
+<</Length 4584>>
 stream
 0.57 w
 0 G
@@ -206,7 +206,7 @@ BT
 13.799999999999999 TL
 0.000 g
 28.35 783.50 Td
-(sopran, alt) Tj
+(Sopran, Alt) Tj
 T* () Tj
 T* (Takt: 4/4 \( 1/4 = 120 \)) Tj
 T* (Tonart: C) Tj
@@ -217,7 +217,16 @@ BT
 6.8999999999999995 TL
 0.000 g
 425.20 20.41 Td
-(rendered 2014-12-26 15:17:26 CET by Zupfnoter 0.9.6.dev ©2014 https://www.bernhard-weichel.de \(Host http://localhost:9292/\)) Tj
+(rendered 2015-08-30 10:55:17 CEST by Zupfnoter 0.10.3 ©2015 https://www.bernhard-weichel.de \(Host http://localhost:9292/\)) Tj
+ET
+0.28 w
+BT
+/F1 12 Tf
+13.799999999999999 TL
+0.000 g
+396.85 689.95 Td
+(This is third verse) Tj
+T* (shoud be placed right of the tune) Tj
 ET
 0.28 w
 BT
@@ -231,17 +240,6 @@ T* (Das sind noch immer lyrics) Tj
 T* () Tj
 T* (we shall see a blank line before this) Tj
 T* (zweite Strophe) Tj
-T* () Tj
-T* (This is third verse) Tj
-T* (shoud be placed right of the tune) Tj
-ET
-0.28 w
-BT
-/F1 12 Tf
-13.799999999999999 TL
-0.000 g
-1020.47 37.98 Td
-(Erstellt mit Zupfnoter 0.7) Tj
 ET
 endstream
 endobj
@@ -336,7 +334,7 @@ endobj
 17 0 obj
 <<
 /Producer (jsPDF 1.0.145-git 2014-05-25T12:54:diegocr)
-/CreationDate (D:20141226151726)
+/CreationDate (D:20150830105517)
 >>
 endobj
 18 0 obj
@@ -350,24 +348,24 @@ endobj
 xref
 0 19
 0000000000 65535 f 
-0000004767 00000 n 
-0000005997 00000 n 
+0000004721 00000 n 
+0000005951 00000 n 
 0000000009 00000 n 
 0000000087 00000 n 
-0000004855 00000 n 
-0000004945 00000 n 
-0000005040 00000 n 
-0000005138 00000 n 
-0000005240 00000 n 
-0000005328 00000 n 
-0000005422 00000 n 
-0000005519 00000 n 
-0000005620 00000 n 
-0000005713 00000 n 
-0000005805 00000 n 
-0000005899 00000 n 
-0000006221 00000 n 
-0000006331 00000 n 
+0000004809 00000 n 
+0000004899 00000 n 
+0000004994 00000 n 
+0000005092 00000 n 
+0000005194 00000 n 
+0000005282 00000 n 
+0000005376 00000 n 
+0000005473 00000 n 
+0000005574 00000 n 
+0000005667 00000 n 
+0000005759 00000 n 
+0000005853 00000 n 
+0000006175 00000 n 
+0000006285 00000 n 
 trailer
 <<
 /Size 19
@@ -375,5 +373,5 @@ trailer
 /Info 17 0 R
 >>
 startxref
-6435
+6389
 %%EOF
