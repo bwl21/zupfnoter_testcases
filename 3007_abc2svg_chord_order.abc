@@ -1,0 +1,19 @@
+X:3007
+F:3007_abc2svg_chord_order
+T:abc2svg_chord_order
+C:
+S:
+M:4/4
+L:1/4
+Q:1/4=120
+K:C
+%%score T1
+V:T1 clef=treble-8 name="Sopran" snm="S"
+"!C"[CDE]"!D"[DEC] "!E"[ECD]
+
+
+%%%%zupfnoter.config
+
+{
+  "produce": ["0"]
+}

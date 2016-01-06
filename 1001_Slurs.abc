@@ -10,22 +10,28 @@ K:C
 %%score T1 T2 
 V:T1 clef=treble-8 octave=-1 name="Sopran" snm="S"
 V:T2 clef=treble-8 octave=-1 name="Alt" snm="A"
-[V:T1]  "^!tie" c-cd ((c | c2 d)d) | c2 ([(ce]2 | [ce)]2) "^!tie-sequence"c-c/2-c/2 | "^!tie-sequence"[c - e - ] - [ce]3|]
+[V:T1]  "^!tie" c-cd ((c | c2 d)d) | c2 ([(ce]2 | [ce)]2) "^!tie-sequence"c-c/2-c/2 | "^!tie-sequence"[c-e] - [ce]3|]
 [V:T2] (ED (E2 | E2)) EE | C4) | C4) | "^!triplet"(3C/2C/2C/2 C C C |]
 
 W: Slurs shall be respresented accordingly
 W: Ties shall be represented and played properly
 W:
 W: Annotation shall be top right of the corresponding note
+W: 
+W: View 0: no slurs shall be renderd
+W: View 1: slurs shall be rendered
 
 %%%%zupfnoter.config
 {
- "produce":[0],
+ "produce":[0,1],
 
  "extract": {
               "0": {
                    "lyrics": {"versepos": {"1,2,3,4,5,6" :[220,150]}},
                    "legend": {"pos": [350,150]}
+                   },
+              "1": {
+                   "layout": {"SHOW_SLUR": true}
                    }
            }
 }

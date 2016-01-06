@@ -1,0 +1,31 @@
+X:1007_bartypes
+F:1021_bartypes
+T:bartypes
+C:
+S:
+M:1/1
+L:1/1
+Q:1/4=120
+K:C
+I: score T1 
+I: hn.print
+I: transpose 0
+%
+V:T1 clef=treble-8 name="Sopran" snm="S"
+A |A :|
+[P:2] A |:A :|
+[P:3] G |:G :: G:|
+[P:4] G |:G :||: G:|
+
+
+
+%%%%zupfnoter.config
+{
+ "produce":[0],
+  "extract": {
+  "0": {
+        "legend": {"pos": [180,10]}
+      }
+    }
+} 
+
